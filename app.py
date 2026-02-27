@@ -175,7 +175,7 @@ else:
 
 st.header("5) Self-Exploration")
 st.write(
-    "In this story we have explored both the max riser and the max riser (with somewhat "
+    "In this story we have explored both the max faller and the max riser (with somewhat "
     "of an emphasis on the max riser). You can use the interactive views above "
     "to test out other patterns involving specific teams by doing the following:"
 )
